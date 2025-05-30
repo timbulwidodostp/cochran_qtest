@@ -1,6 +1,8 @@
 # cochran_qtest
 Cochran's Q Test Use cochran_qtest (rstatix) With (In) R Software
 
+https://www.youtube.com/watch?v=py5RPED7dSo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
